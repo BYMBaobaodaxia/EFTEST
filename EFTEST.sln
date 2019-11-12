@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFTEST", "EFTEST.csproj", "{68392382-59D3-4B4E-A738-C57E19100B29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "ClassLibrary1\DAL.csproj", "{1FFEF6DB-628A-4E0B-9450-16FD858BDA6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68392382-59D3-4B4E-A738-C57E19100B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68392382-59D3-4B4E-A738-C57E19100B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68392382-59D3-4B4E-A738-C57E19100B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68392382-59D3-4B4E-A738-C57E19100B29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FFEF6DB-628A-4E0B-9450-16FD858BDA6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FFEF6DB-628A-4E0B-9450-16FD858BDA6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FFEF6DB-628A-4E0B-9450-16FD858BDA6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FFEF6DB-628A-4E0B-9450-16FD858BDA6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
