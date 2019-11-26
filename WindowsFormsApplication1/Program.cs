@@ -1,20 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WindowsFormsApplication1
 {
-    static class Program
+   public static class Program
     {
         /// <summary>
         /// 应用程序的主入口点。
         /// </summary>
         [STAThread]
-        static void Main()
+        public static void Main(string[] aa)
         {
-          // 范德萨
+        var newB=    Byte.Parse("rew");
+            // 范德萨
+         File.Create(@"E:/工作文档/BI/aa.txt", newB);
+         
         }
     }
 }
