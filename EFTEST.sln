@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "..\WebApplication2\WebApplication2.csproj", "{1A8AA49D-BED1-44ED-9971-C5BB9C9CE413}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication3", "..\WebApplication3\WebApplication3.csproj", "{8915AA94-A083-4BB3-8713-5DEC794F1C14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1A8AA49D-BED1-44ED-9971-C5BB9C9CE413}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A8AA49D-BED1-44ED-9971-C5BB9C9CE413}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A8AA49D-BED1-44ED-9971-C5BB9C9CE413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8915AA94-A083-4BB3-8713-5DEC794F1C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8915AA94-A083-4BB3-8713-5DEC794F1C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8915AA94-A083-4BB3-8713-5DEC794F1C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8915AA94-A083-4BB3-8713-5DEC794F1C14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
